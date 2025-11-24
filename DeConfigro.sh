@@ -12,7 +12,7 @@ display_welcome_message() {
     echo -e "\033[0;32m                                      |___/            "
     echo -e "\033[0m"
 
-    created_by_text="Program created by: AnonKryptiQuz"
+    created_by_text="Program created by: AnonKryptiQuz x Nuknov"
     ascii_width=54
     padding=$(( (ascii_width - ${#created_by_text}) / 2 ))
     printf "%${padding}s" ""
