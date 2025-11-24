@@ -21,7 +21,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/AnonKryptiQuz/DeConfigro.git
+   git clone https://github.com/nuknov/DeConfigro.git
    cd Xploitra
    ```
 
@@ -61,4 +61,6 @@
 
 ## **Author**
 
-**Created by:** [AnonKryptiQuz](https://AnonKryptiQuz.github.io/)
+**Created by:** 
+- [AnonKryptiQuz](https://AnonKryptiQuz.github.io/)
+- [Nuknov](https://github.com/nuknov/)
