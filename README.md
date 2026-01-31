@@ -22,7 +22,7 @@
 
    ```bash
    git clone https://github.com/nuknov/DeConfigro.git
-   cd Xploitra
+   cd DeConfigro
    ```
 
 2. **Give executable permission to the script**
@@ -64,3 +64,4 @@
 **Created by:** 
 - [AnonKryptiQuz](https://AnonKryptiQuz.github.io/)
 - [Nuknov](https://github.com/nuknov/)
+
