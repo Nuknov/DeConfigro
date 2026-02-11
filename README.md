@@ -1,4 +1,4 @@
-# 🔍 **DeConfigro -- WordPress Vulnerability Scanner**
+# **DeConfigro -- WordPress Vulnerability Scanner**
 
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -277,4 +277,5 @@ Ideal for **security professionals and researchers** conducting authorized WordP
 - [Nuknov](https://github.com/Nuknov/)
 
 *With great power comes great responsibility. Scan ethically. Always get permission. Respect boundaries.*
+
 
