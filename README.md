@@ -4,7 +4,6 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Built by Nuknov](https://img.shields.io/badge/Built%20by-Nuknov-000000?logo=github&logoColor=white)](https://github.com/Nuknov)
 [![Built by AnonKryptiQuz](https://img.shields.io/badge/Built%20by-AnonKryptiQuz-000000?logo=github&logoColor=white)](https://github.com/AnonKryptiQuz)
-[![Red Team Research](https://img.shields.io/badge/Red%20Team%20Research-Nuknov-8B0000?logo=terminal)](https://nuknov.github.io)
 
 **DeConfigro** is a lightweight and powerful tool designed to scan websites for a common WordPress vulnerability involving the `wp-admin/setup-config.php?step=1` page.
 
@@ -278,3 +277,4 @@ Ideal for **security professionals and researchers** conducting authorized WordP
 - [Nuknov](https://github.com/Nuknov/)
 
 *With great power comes great responsibility. Scan ethically. Always get permission. Respect boundaries.*
+
