@@ -5,7 +5,7 @@
 [![Built by Nuknov](https://img.shields.io/badge/Built%20by-Nuknov-000000?logo=github&logoColor=white)](https://github.com/Nuknov)
 [![Built by AnonKryptiQuz](https://img.shields.io/badge/Built%20by-AnonKryptiQuz-000000?logo=github&logoColor=white)](https://github.com/AnonKryptiQuz)
 
-**DeConfigro** is a lightweight and powerful tool designed to scan websites for a common WordPress vulnerability involving the `wp-admin/setup-config.php?step=1` page.
+**DeConfigro** is a lightweight and powerful tool designed to scan websites for a common WordPress vulnerabilities involving the `wp-admin/setup-config.php?step=1` page.
 
 This page is part of the WordPress installation process and, if left exposed, can be a security risk. The tool checks if the page is accessible, indicating an incomplete WordPress installation that could be exploited.
 
@@ -135,7 +135,7 @@ Results saved to: vulnerable_sites.txt
 
 ---
 
-## 🎯 **Vulnerability Details**
+## **Vulnerability Details**
 
 ### **What is the wp-admin/setup-config.php vulnerability?**
 
