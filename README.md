@@ -1,6 +1,6 @@
 # **DeConfigro -- WordPress Vulnerability Scanner**
 
-[![Version](https://img.shields.io/badge/version-1.0-blue.svg)]()
+[![Version](https://img.shields.io/badge/version-2.0-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Built by Nuknov](https://img.shields.io/badge/Built%20by-Nuknov-000000?logo=github&logoColor=white)](https://github.com/Nuknov)
 [![Built by AnonKryptiQuz](https://img.shields.io/badge/Built%20by-AnonKryptiQuz-000000?logo=github&logoColor=white)](https://github.com/AnonKryptiQuz)
@@ -277,5 +277,6 @@ Ideal for **security professionals and researchers** conducting authorized WordP
 - [Nuknov](https://github.com/Nuknov/)
 
 *With great power comes great responsibility. Scan ethically. Always get permission. Respect boundaries.*
+
 
 
